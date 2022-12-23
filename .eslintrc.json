@@ -20,6 +20,9 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-props-no-spreading": "off",
-    "quotes": "off"
+    "quotes": "off",
+    "import/extensions": "off",
+    "import/no-unresolved": "off",
+    "import/order": "off"
   }
 }
